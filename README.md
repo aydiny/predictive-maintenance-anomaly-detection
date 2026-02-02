@@ -33,3 +33,10 @@ Instead of relying on a single algorithm, this project implements a **Multi-Vote
 ## 📉 Visualizing the Anomalies
 *   **Box Plot Analysis:** Initial EDA revealed significant outliers in *Fuel Pressure* and *RPM*, validating the need for robust scaling.
 *   **PCA Projection:** Dimensionality reduction to 2D proved that anomalies (Red) lie on the fringes of the cluster, though the complex 6D structure requires non-linear models (SVM) to fully separate.
+
+## 📂 Project Structure
+
+```text
+├── notebooks/
+├── requirements.txt        # Dependencies
+└── README.md               # Documentation
