@@ -2,6 +2,9 @@
 
 > **An ensemble outlier detection engine that flags critical engine failures with <1% false positive rate.**
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/fc02fe18-2f8c-4e21-846e-8bc1a2b6e5b8" />
+
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![ML](https://img.shields.io/badge/Model-Isolation_Forest_|_SVM-green.svg)
 ![Status](https://img.shields.io/badge/Status-Prototype-yellow.svg)
